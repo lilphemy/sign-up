@@ -1,0 +1,80 @@
+body {
+background-color:RGBa(169, 154, 170, 0.5);
+text-align:center;
+font-family: Helvetica, san-serif;
+font-size:16px;;
+padding: 5px;
+
+
+
+}
+
+.stan-con{
+background-color:rgba(0, 0, 0, 0.8);
+padding:10px;
+margin: auto;
+font-family: verdana;
+font-size:20px;
+color: #4f2d9f;
+
+
+}
+
+img {
+border-radius: 50%;
+border-thickness: bold;
+border-color: red;
+
+}
+
+
+.lapse-con {
+text-align:left;
+padding: 20px;
+color: #9dfaf9; 
+font-size: 20px;
+background-image: URL('/storage/emulated/0/sign-up/images/Backimg.jpg');
+
+
+
+}
+
+label {
+background-color:black;
+
+}
+
+
+#grasp {
+padding: 10px;
+border-radius: 20px;
+width: auto;
+position: relative;
+right: -10px:
+border: 30px;
+border-bottom: red;
+margin: 30px;
+
+
+
+}
+
+
+p {
+color:#8d8a9f;
+}
+
+
+#sub {
+position: relative;
+left: 100px;
+padding: 20px;
+background-color: #a46c7d;
+border-radius:50%;
+color: #121212;
+
+}
+
+
+
+
