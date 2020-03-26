@@ -2,7 +2,7 @@ body {
 background-color:RGBa(169, 154, 170, 0.5);
 text-align:center;
 font-family: Helvetica, san-serif;
-font-size:16px;;
+font-size:25px;;
 padding: 5px;
 
 
@@ -72,6 +72,7 @@ padding: 20px;
 background-color: #a46c7d;
 border-radius:50%;
 color: #121212;
+text-align: center;
 
 }
 
